@@ -6,8 +6,8 @@
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 <!-- Actual text -->
 
-You can find me on [![akshirsagar4376@gmail.com], or on [![ linkedin.com/in/gauri-kshirsagar-05a027220
-][3].
+You can find me on [akshirsagar4376@gmail.com], or on [ linkedin.com/in/gauri-kshirsagar-05a027220
+].
 
 <!-- Icons -->
 
