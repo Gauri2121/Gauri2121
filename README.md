@@ -9,4 +9,4 @@ Travelling and listening music.
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 Glad To See You Here!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${Gauri2121}.${githubname/githubname.id})
-https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0000e6)](https://www.linkedin.com/in/gauri-kshirsagar-05a027220/)
+[(https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0000e6)](https://www.linkedin.com/in/gauri-kshirsagar-05a027220/)
