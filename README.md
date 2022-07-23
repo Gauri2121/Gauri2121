@@ -1,8 +1,6 @@
 # Hello I am Gauri
-I'm a computer science graduate now i am studying Datasciene
-I’m interested in Machine Learning, AI and Data Science
-I like spending time to meet new people. 
-Travelling and listening music.
+I'm 
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauri2121)](https://github.com/Gauri2121/github-readme-stats)
